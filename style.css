@@ -1,0 +1,125 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.flex-container {
+    display: flex;
+    margin-bottom: 90px;
+}
+
+.half-width {
+    width: 87%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 500px;
+}
+
+.text-lock {
+    padding-left: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+}
+
+.text-position {
+    text-align: center;
+}
+
+.image-size0 {
+    width: 700px;
+    height: 600px;
+}
+
+.image-position {
+    width: 130px;
+    height: 130px;
+    padding-top: 15px;
+}
+
+.shape-1 {
+    background-image: url(images/shapes/12399-small-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: left, bottom;
+}
+
+.need-things1 {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 1%;
+    padding-left: 27px;
+    padding-right: 15px;
+    box-shadow: 10px 10px 40px;
+    border-radius: 20px;
+    background-color: rgb(217, 239, 242);
+}
+
+.need-things2 {
+    width: 40%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-left: 27px;
+    padding-right: 15px;
+    box-shadow: 10px 10px 40px;
+    border-radius: 20px;
+    background-color: rgb(244, 223, 227);
+}
+
+.need-things3 {
+    width: 40%;
+    margin-left: 1%;
+    margin-right: 5%;
+    padding-left: 27px;
+    padding-right: 15px;
+    box-shadow: 10px 10px 40px;
+    border-radius: 20px;
+    background-color: rgb(248, 233, 215);
+}
+
+#side-line {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+#footer-bg {
+    background-color: rgb(14, 13, 13);
+    text-align: center;
+}
+
+.white-color {
+    color: white;
+    font-style: italic;
+}
+
+.rose-color {
+    color: darkred;
+}
+
+.majenda {
+    color: rgb(208, 231, 223);
+}
